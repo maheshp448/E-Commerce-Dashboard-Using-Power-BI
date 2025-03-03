@@ -48,12 +48,12 @@ The **E-Commerce Dashboard** is a comprehensive business intelligence tool desig
 
 ## Tools & Technologies Used
 
-- **Power BI**  
-- **DAX (Data Analysis Expressions)**  
-- **ETL (Extract, Transform, Load)**  
-- **Row-Level Security (RLS)**  
-- **Power BI Service**  
-- **Microsoft Excel (for initial data preparation)**  
+- Power BI
+- DAX (Data Analysis Expressions)
+- ETL (Extract, Transform, Load)
+- Row-Level Security (RLS)
+- Power BI Service 
+- Microsoft Excel (for initial data preparation)
 
 ## Conclusion
 
